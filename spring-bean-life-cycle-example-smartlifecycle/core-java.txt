@@ -1,2 +1,4 @@
 Inner class ?
-How Hashmap works internall?
+How Hashmap works internally?
+Stateless vs Statefull (Http vs Ftp)
+Git Rebase
