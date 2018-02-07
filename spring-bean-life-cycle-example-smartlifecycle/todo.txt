@@ -1,0 +1,9 @@
+funny spring bean life cycle
+https://www.youtube.com/watch?v=0t2wtPZxVuU
+
+
+init() and destroy()
+https://www.youtube.com/watch?v=_tCX2TFIv6k
+
+smartbeanlifecycle of spring bean
+http://selvakumaresra.herokuapp.com/spring-smartlifecycle-smart-shutdown-sequence-for-java-service/
