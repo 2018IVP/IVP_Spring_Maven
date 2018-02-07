@@ -1,0 +1,2 @@
+Inner class ?
+How Hashmap works internall?
